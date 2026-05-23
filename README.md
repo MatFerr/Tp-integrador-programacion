@@ -25,6 +25,10 @@ Los datos se almacenan en un archivo 'archivo.csv' con codificación 'utf-8' par
 ESTRUCTURA DEL REPOSITORIO
 * 'archivo.csv' - Arhivo de texto plano donde se almacenan los datos del programa(simula una base de datos)
 * 'TrabajoIntegradorProgramacion.py' - Archivo  donde se almmacena todo el codigo y la logica del programa, en lenguaje Python
+* 'TrabajoIntegradorTeorico.pdf': Contiene todo el material teorico solicitado para el proyecto
 
 * Los ejemplos de salidas/entradas y la evidencia de errores se encuentran en el pdf principal, en el apartado 'Simulacion de Codigo e identificacion de errores', para una mejor organizacion
+
+ENLACES
+* Video Explicativo Youtube: https://www.youtube.com/watch?v=-roeS9ALCrQ
 
