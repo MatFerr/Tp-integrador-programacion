@@ -1,5 +1,5 @@
 INTRODUCCION
-Este proyecto es una aplicación de consola que funciona como un sistema de gestión y análisis de datos geográficos y demográficos por paises. Su objetivo principal es permitir el control sobre un registro de países, ofreciendo herramientas interactivas para administrar la información de forma centralizada.
+* Este proyecto es una aplicación de consola que funciona como un sistema de gestión y análisis de datos geográficos y demográficos por paises. Su objetivo principal es permitir el control sobre un registro de países, ofreciendo herramientas interactivas para administrar la información de forma centralizada.
 
 USO DEL PROGRAMA
 * El script está estructurado bajo un menu principal que posee diferentes opciones, las cuales el usuario puede elegir introduciendo el numero de la opcion deseada en la consola. Cada opcion e ingreso de datos posee su propia verificacion y validacion, evitando asi campos erroneos o incompletos.
